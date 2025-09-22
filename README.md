@@ -68,6 +68,10 @@ const options = {
 ```javascript
 const results = await generator.batchGenerateVideos(prompts, options);
 ```
+### 6.执行命令
+```
+node batch_video_generator.js
+```
 
 ## 详细步骤说明
 
